@@ -2,7 +2,8 @@
 
 I’m a Ph.D. student at Beijing Institute of Technology. My research focuses on generative models for remote sensing, especially how to use optical priors, control color, and preserve spatial consistency in SAR-to-optical image translation.
 
-[Google Scholar](https://scholar.google.com/citations?user=tmThcsMAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=tmThcsMAAAAJ&hl=en&oi=ao)
+
 
 ## Selected Research
 
